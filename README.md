@@ -33,7 +33,7 @@ This project was developed with the following technologies:
 
 Social Tree is a project developed at an event of the ( Desafio Discover ) by [Rocketseat](https://app.rocketseat.com.br).
 
-- [Access the finished project, online](https://caiosena.github.io/SocialTree)
+- [Access the finished project, online](https://caiosena.github.io/Social-Tree)
 
 ## 🔖 Layout
 
